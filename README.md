@@ -1,2 +1,2 @@
-# treehouseproject1
-First Project of TreeHouse Tech Degree: Random Quote Generator
+# A Random Quote Generator
+generate quotes randomly
